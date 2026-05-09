@@ -1,0 +1,99 @@
+h1{
+    text-align: center;
+    font-weight: bolder;
+}
+.grid
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:20px;
+}
+button
+{
+    height: 150px;
+    border: none;
+    border-radius: 10%;
+    color: transparent;
+}
+.cat1
+{
+    background-image: url("./cat-image/aagh-cat.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.cat2
+{
+    background-image: url("./cat-image/cool-cat.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.cat3
+{
+    background-image: url("./cat-image/doggy.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.cat4
+{
+    background-image: url("./cat-image/fahh-cat.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.cat5
+{
+    background-image: url("./cat-image/freaky-cat.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.cat6
+{
+    background-image: url("./cat-image/huh-cat.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.cat7
+{
+    background-image: url("./cat-image/laugh-cat.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.cat8
+{
+    background-image: url("./cat-image/oioiioioi.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.cat9
+{
+    background-image: url("./cat-image/sad-cat.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.cat10
+{
+    background-image: url("./cat-image/sleepy-cat.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.cat11
+{
+    background-image: url("./cat-image/sus-cat.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.cat12
+{
+    background-image: url("./cat-image/war-cat.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.bawdy
+{
+    background: linear-gradient(300deg,#D9CFC7,#EFE9E3,#F9F8F6);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
