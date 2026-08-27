@@ -1,27 +1,27 @@
-# 🐱 Gato Meme
+# Gato Meme
 
 A fun, interactive cat meme soundboard built with HTML, CSS, and JavaScript. Click on cat images/buttons to play iconic cat meme sounds!
 
-🔗 **Live Demo:** [swatimanjari.github.io/Gato_meme](https://swatimanjari.github.io/Gato_meme/)
+**Live Demo:** [swatimanjari.github.io/Gato_meme](https://swatimanjari.github.io/Gato_meme/)
 
-## 📖 About
+## About
 
 Gato Meme is a lighthearted web project that brings together popular internet cat memes and their sounds in one playful soundboard. It's built purely with front-end technologies — no frameworks, no dependencies — just clean HTML, CSS, and vanilla JS.
 
-## ✨ Features
+## Features
 
-- 🔊 Click-to-play meme sound buttons
-- 🎨 Fun, responsive cat-themed UI
-- ⚡ Lightweight and fast — no build tools required
-- 📱 Works across desktop and mobile browsers
+- Click-to-play meme sound buttons
+- Fun, responsive cat-themed UI
+- Lightweight and fast — no build tools required
+- Works across desktop and mobile browsers
 
-## 🛠️ Built With
+## Built With
 
 - **HTML5** — structure
 - **CSS3** — styling and layout
 - **JavaScript** — sound playback and interactivity
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this project locally:
 
@@ -37,7 +37,7 @@ cd Gato_meme
 
 No installation or dependencies needed — just open `index.html`!
 
-## 📂 Project Structure
+## Project Structure
 
 \`\`\`
 Gato_meme/
@@ -50,21 +50,21 @@ Gato_meme/
 └── README.md
 \`\`\`
 
-## 🎯 Future Improvements
+## Future Improvements
 
 - [ ] Add more meme sounds
 - [ ] Add volume control
 - [ ] Add a "favorites" board for frequently played sounds
 - [ ] Improve mobile touch responsiveness
 
-## 👤 Author
+## Author
 
 **Swati Manjari**
 GitHub: [@SwatiManjari](https://github.com/SwatiManjari)
 
-## 📄 License
+## License
 
 This project is open source and available for personal and educational use.
 
 ---
-⭐ If you liked this project, consider giving it a star on GitHub!# Gato_meme
+If you liked this project, consider giving it a star on GitHub!
